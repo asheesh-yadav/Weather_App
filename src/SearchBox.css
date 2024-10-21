@@ -1,0 +1,12 @@
+.SearchBox{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 10px;
+}
+.search{
+    width: 345px;
+}

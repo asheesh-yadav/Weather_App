@@ -1,0 +1,31 @@
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.weather{
+  width: 100%;
+
+}
+.heading{
+  background-color: #fffb0045;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -100px;
+}
+
+.UI {
+  height: 100vh; 
+  width: 100%;
+  background-image: url('https://cdn.pixabay.com/photo/2022/04/27/01/12/weather-7159428_1280.png');
+  background-size: contain;
+  display: flex;
+  gap:30px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center; 
+}
